@@ -1,6 +1,6 @@
 import React from 'react';
 
-const GOOGLE_API_KEY = 'AIzaSyDCEMq9pYdJyu1D--gWkHmqywSllD0Rkqs';
+const GOOGLE_API_KEY = 'AIzaSyAGFzsVoy7cFeCk95GUYeufb7gA_h7bBkU';
 // const GOOGLE_SIGNATURE = 'pex4G-ziEtB46jMfq09dfo3pcKo=';
 
 export function getMapPreview(lat, lng) {

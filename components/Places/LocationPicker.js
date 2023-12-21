@@ -7,7 +7,7 @@ import {
   getCurrentPositionAsync,
   useForegroundPermissions,
 } from 'expo-location';
-import { getAddress, getMapPreview } from '../../utils/location';
+import { getAddress, getMapPreview } from '../../utils/_location';
 import {
   useIsFocused,
   useNavigation,
